@@ -1,0 +1,436 @@
+{
+  "hero": [
+    {
+      "element": "Tagline",
+      "content": "Founder · Builder · Facilitator",
+      "image_asset_url": ""
+    },
+    {
+      "element": "Hero Statement",
+      "content": "I bridge the internal and external — nervous system to business system, vision to execution, community to capital.",
+      "image_asset_url": ""
+    },
+    {
+      "element": "Credential Line",
+      "content": "Northwestern · 15 Years at Alphabet, Adobe, Cisco, NVIDIA",
+      "image_asset_url": ""
+    },
+    {
+      "element": "CTA Button Text",
+      "content": "Let's Connect",
+      "image_asset_url": ""
+    },
+    {
+      "element": "CTA Button Link",
+      "content": "#connect",
+      "image_asset_url": ""
+    }
+  ],
+  "sticky_button": [
+    {
+      "element": "Button Text",
+      "content": "Let's Connect",
+      "image_asset_url": ""
+    },
+    {
+      "element": "Button Link",
+      "content": "#connect",
+      "image_asset_url": ""
+    }
+  ],
+  "credibility_bar": [
+    {
+      "element": "Intro Text",
+      "content": "15 years leading growth, analytics & marketing at",
+      "image_asset_url": ""
+    },
+    {
+      "element": "Company Names",
+      "content": "ALPHABET, ADOBE, CISCO, NVIDIA",
+      "image_asset_url": ""
+    }
+  ],
+  "navigation": [
+    {
+      "element": "Menu Items",
+      "content": "About, Services, Ventures, Connect",
+      "image_asset_url": ""
+    }
+  ],
+  "three_doors": [
+    {
+      "element": "Card 01 — Title",
+      "content": "Work With Me",
+      "image_asset_url": ""
+    },
+    {
+      "element": "Card 01 — Subtitle",
+      "content": "Coaching · Healing · Advisory",
+      "image_asset_url": ""
+    },
+    {
+      "element": "Card 01 — Description",
+      "content": "From trauma-informed breathwork and nervous system regulation to AI systems consulting and growth strategy — I meet you where you are, whether that's your inner world or your business.",
+      "image_asset_url": ""
+    },
+    {
+      "element": "Card 02 — Title",
+      "content": "What I'm Building",
+      "image_asset_url": ""
+    },
+    {
+      "element": "Card 02 — Subtitle",
+      "content": "Ventures · Real Estate · Community",
+      "image_asset_url": ""
+    },
+    {
+      "element": "Card 02 — Description",
+      "content": "Paddle Haus — a multigenerational indoor racquet sports + wellness club. Lighthouse Partners — off-market commercial real estate. Twin Partners — AI automation for service businesses.",
+      "image_asset_url": ""
+    },
+    {
+      "element": "Card 03 — Title",
+      "content": "My Story",
+      "image_asset_url": ""
+    },
+    {
+      "element": "Card 03 — Subtitle",
+      "content": "Big Tech to Breathwork to Building",
+      "image_asset_url": ""
+    },
+    {
+      "element": "Card 03 — Description",
+      "content": "Fifteen years at Alphabet, Adobe, Cisco, and NVIDIA. Trained energy practitioner and breathwork facilitator. Now building at the intersection of systems, spaces, and the human operating system underneath it all.",
+      "image_asset_url": ""
+    }
+  ],
+  "coaching_healing": [
+    {
+      "element": "Section Divider",
+      "content": "Ways to Enter the Space",
+      "image_asset_url": ""
+    },
+    {
+      "element": "Section Intro",
+      "content": "I hold space for people who are in the in-between. When something has shifted, but nothing is clear yet.",
+      "image_asset_url": ""
+    },
+    {
+      "element": "Service 1 — Name",
+      "content": "Between Moments",
+      "image_asset_url": ""
+    },
+    {
+      "element": "Service 1 — Tagline",
+      "content": "For moments when one pause is enough",
+      "image_asset_url": ""
+    },
+    {
+      "element": "Service 1 — Pricing",
+      "content": "60 minutes · $222",
+      "image_asset_url": ""
+    },
+    {
+      "element": "Service 1 — Description",
+      "content": "A single session for moments when you feel stuck, unsettled, or not quite yourself. We slow down and listen to what's present. Healing and guidance are offered gently — only if needed.",
+      "image_asset_url": ""
+    },
+    {
+      "element": "Service 2 — Name",
+      "content": "Between Seasons",
+      "image_asset_url": ""
+    },
+    {
+      "element": "Service 2 — Tagline",
+      "content": "A steady place to return to",
+      "image_asset_url": ""
+    },
+    {
+      "element": "Service 2 — Pricing",
+      "content": "3 sessions/month · $555",
+      "image_asset_url": ""
+    },
+    {
+      "element": "Service 2 — Description",
+      "content": "For times when you're moving through an ongoing transition and want consistent support. We meet three times over the month, creating continuity and space for integration.",
+      "image_asset_url": ""
+    },
+    {
+      "element": "Footnote",
+      "content": "Integrating trauma-informed breathwork · somatic healing · energy work · mindfulness practices. A portion of each session supports global reforestation through One Tree Planted.",
+      "image_asset_url": ""
+    },
+    {
+      "element": "Discovery Call — Button Text",
+      "content": "Book a Discovery Call",
+      "image_asset_url": ""
+    },
+    {
+      "element": "Discovery Call — Button Link",
+      "content": "#",
+      "image_asset_url": ""
+    },
+    {
+      "element": "Services Layout Note",
+      "content": "",
+      "image_asset_url": ""
+    }
+  ],
+  "pull_quote": [
+    {
+      "element": "Quote Text",
+      "content": "I don't fit neatly into one box — and I stopped trying to. The same instinct that helped me build growth engines at Alphabet and NVIDIA is the one that told me to leave and build something of my own.",
+      "image_asset_url": ""
+    },
+    {
+      "element": "Design Notes",
+      "content": "",
+      "image_asset_url": ""
+    }
+  ],
+  "ventures": [
+    {
+      "element": "Section Divider",
+      "content": "What I'm Building",
+      "image_asset_url": ""
+    },
+    {
+      "element": "Venture 1 — Name",
+      "content": "Paddle Haus",
+      "image_asset_url": ""
+    },
+    {
+      "element": "Venture 1 — Type",
+      "content": "Experiential Wellness",
+      "image_asset_url": ""
+    },
+    {
+      "element": "Venture 1 — Description",
+      "content": "A multigenerational indoor racquet sports and wellness social club — reimagining how communities gather, move, and connect.",
+      "image_asset_url": ""
+    },
+    {
+      "element": "Venture 1 — Status",
+      "content": "Raising · Seeking aligned investors",
+      "image_asset_url": ""
+    },
+    {
+      "element": "Venture 2 — Name",
+      "content": "Lighthouse Partners",
+      "image_asset_url": ""
+    },
+    {
+      "element": "Venture 2 — Type",
+      "content": "Commercial Real Estate",
+      "image_asset_url": ""
+    },
+    {
+      "element": "Venture 2 — Description",
+      "content": "Sourcing, underwriting, and structuring off-market deals across hospitality, multifamily, self-storage, and experiential assets.",
+      "image_asset_url": ""
+    },
+    {
+      "element": "Venture 2 — Status",
+      "content": "Active · Deal flow open",
+      "image_asset_url": ""
+    },
+    {
+      "element": "Venture 3 — Name",
+      "content": "Twin Partners",
+      "image_asset_url": ""
+    },
+    {
+      "element": "Venture 3 — Type",
+      "content": "AI Automation + Growth",
+      "image_asset_url": ""
+    },
+    {
+      "element": "Venture 3 — Description",
+      "content": "Helping coaches, consultants, and service businesses scale with AI-powered systems — replacing operational chaos with clarity.",
+      "image_asset_url": ""
+    },
+    {
+      "element": "Venture 3 — Status",
+      "content": "Active · Accepting clients",
+      "image_asset_url": ""
+    },
+    {
+      "element": "Venture 4 — Name",
+      "content": "Elevate Homes",
+      "image_asset_url": ""
+    },
+    {
+      "element": "Venture 4 — Type",
+      "content": "Design + Real Estate",
+      "image_asset_url": ""
+    },
+    {
+      "element": "Venture 4 — Description",
+      "content": "Creating living environments that support wellbeing and functionality — because spaces shape how we perform and feel.",
+      "image_asset_url": ""
+    },
+    {
+      "element": "Venture 4 — Status",
+      "content": "Active",
+      "image_asset_url": ""
+    },
+    {
+      "element": "Layout Note",
+      "content": "",
+      "image_asset_url": ""
+    }
+  ],
+  "testimonials": [
+    {
+      "element": "Section Title",
+      "content": "Kind Words",
+      "image_asset_url": ""
+    },
+    {
+      "element": "Testimonial 1 — Quote",
+      "content": "[Placeholder testimonial — Zoey to replace]",
+      "image_asset_url": ""
+    },
+    {
+      "element": "Testimonial 1 — Name",
+      "content": "[Name]",
+      "image_asset_url": ""
+    },
+    {
+      "element": "Testimonial 1 — Title",
+      "content": "[Title / Role]",
+      "image_asset_url": ""
+    },
+    {
+      "element": "Testimonial 2 — Quote",
+      "content": "[Placeholder testimonial — Zoey to replace]",
+      "image_asset_url": ""
+    },
+    {
+      "element": "Testimonial 2 — Name",
+      "content": "[Name]",
+      "image_asset_url": ""
+    },
+    {
+      "element": "Testimonial 2 — Title",
+      "content": "[Title / Role]",
+      "image_asset_url": ""
+    },
+    {
+      "element": "Testimonial 3 — Quote",
+      "content": "[Placeholder testimonial — Zoey to replace]",
+      "image_asset_url": ""
+    },
+    {
+      "element": "Testimonial 3 — Name",
+      "content": "[Name]",
+      "image_asset_url": ""
+    },
+    {
+      "element": "Testimonial 3 — Title",
+      "content": "[Title / Role]",
+      "image_asset_url": ""
+    },
+    {
+      "element": "Design Notes",
+      "content": "",
+      "image_asset_url": ""
+    }
+  ],
+  "founder_story": [
+    {
+      "element": "Paragraph 1",
+      "content": "I spent fifteen years inside some of the biggest companies in the world — Alphabet, Adobe, Cisco, NVIDIA — leading teams that turned data into growth and complexity into clarity. I was the person who could see the system, find the leverage point, and build the engine.",
+      "image_asset_url": ""
+    },
+    {
+      "element": "Paragraph 2",
+      "content": "But the deeper I went into the mechanics of scale, the more I noticed something the dashboards couldn't capture: the human operating system underneath it all. The nervous system running the meetings. The unprocessed stress shaping the strategy. The environments — physical, digital, relational — either supporting people or silently working against them.",
+      "image_asset_url": ""
+    },
+    {
+      "element": "Paragraph 3",
+      "content": "So I started building at the intersection. I became a trauma-informed breathwork facilitator and trained energy practitioner — not to leave the business world behind, but to bring a dimension to it that most operators miss.",
+      "image_asset_url": ""
+    },
+    {
+      "element": "Paragraph 4",
+      "content": "Today, everything I build expresses a single belief: the environments and systems people exist within shape how they perform, heal, and grow. That belief runs through every venture — from Paddle Haus to Lighthouse Partners to Twin Partners.",
+      "image_asset_url": ""
+    },
+    {
+      "element": "Paragraph 5",
+      "content": "If we're meeting for the first time — I want you to know: I don't fit neatly into one box, and I stopped trying to. The thread that connects all of this is the same instinct that guided my corporate career: see the whole system, find where it's stuck, and build something better.",
+      "image_asset_url": ""
+    },
+    {
+      "element": "Sign-off",
+      "content": "With warmth,\nZoey",
+      "image_asset_url": ""
+    }
+  ],
+  "contact": [
+    {
+      "element": "Section Anchor ID",
+      "content": "connect",
+      "image_asset_url": ""
+    },
+    {
+      "element": "Headline",
+      "content": "Ready to build something together?",
+      "image_asset_url": ""
+    },
+    {
+      "element": "Description",
+      "content": "Whether you're exploring coaching, evaluating a deal, building a team, or just want to say hello — I'd love to hear from you.",
+      "image_asset_url": ""
+    },
+    {
+      "element": "Form — Field 1",
+      "content": "Name",
+      "image_asset_url": ""
+    },
+    {
+      "element": "Form — Field 2",
+      "content": "Email",
+      "image_asset_url": ""
+    },
+    {
+      "element": "Form — Field 3",
+      "content": "Message",
+      "image_asset_url": ""
+    },
+    {
+      "element": "Form — Submit Text",
+      "content": "Send",
+      "image_asset_url": ""
+    },
+    {
+      "element": "Form — Confirmation",
+      "content": "Thank you — I'll be in touch soon",
+      "image_asset_url": ""
+    },
+    {
+      "element": "Form — Backend",
+      "content": "Formspree.io endpoint URL",
+      "image_asset_url": ""
+    },
+    {
+      "element": "Email Link",
+      "content": "hello@zoeytran.com",
+      "image_asset_url": ""
+    },
+    {
+      "element": "Layout Note",
+      "content": "",
+      "image_asset_url": ""
+    }
+  ],
+  "footer": [
+    {
+      "element": "Copyright",
+      "content": "© 2026 · All Rights Reserved",
+      "image_asset_url": ""
+    }
+  ]
+}
